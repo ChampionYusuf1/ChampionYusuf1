@@ -5,7 +5,7 @@ Im also studying Computer Science at UIC with a concentration in software engine
 <br>
 Im currently looking for software engineering internships for the summer of 2025😢, you can reach out to me at yghan2@uic.edu
 <br>
-<250+commits on private repos/organizations>
+300+commits on private repos/organizations
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yusuf Ghani) 
 
