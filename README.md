@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hey, Its Yusuf, Im currently a software engineer at Americloud Tek Solutions
+😅Hey, Its Yusuf, Im currently a software engineer at Americloud Tek Solutions🥶
 <br>
-Im also studying Computer Science at UIC with a concentration in software engineering as well as a minor in finace
+Im also studying Computer Science at UIC with a concentration in software engineering as well as a minor in finace💰
 <br>
-Im currently looking for software engineering internships for the summer of 2025, you can reach out to me at yghan2@uic.edu
+Im currently looking for software engineering internships for the summer of 2025😢, you can reach out to me at yghan2@uic.edu
 <br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yusuf Ghani) 
