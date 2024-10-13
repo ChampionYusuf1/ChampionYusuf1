@@ -8,7 +8,9 @@ Im currently looking for software engineering internships for the summer of 2025
 300+commits on private repos/organizations
 <br>
 Here are two of the project I worked on which are now in Production! Check Them Out!
+<br>
 https://www.survease.app/
+<br>
 https://donationkiosk.net/
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yusuf Ghani) 
