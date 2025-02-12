@@ -3,7 +3,7 @@
 <br>
 Im also studying Computer Science at UIC with a concentration in software engineering as well as a minor in finace💰
 <br>
-Im currently looking for software engineering internships for the summer of 2025😢, you can reach out to me at yghan2@uic.edu
+Im currently looking for software engineering internships for the summer of 2025, you can reach out to me at yghan2@uic.edu
 <br>
 300+commits on private repos/organizations
 <br>
