@@ -9,6 +9,7 @@ Im currently looking for software engineering internships for the summer of 2025
 <br>
 Here are two of the project I worked on which are now in Production! Check Them Out!
 <br>
+Have experience working in large teams and task management services such as Jira and AzureDevOps
 https://www.survease.app/
 <br>
 https://donationkiosk.net/
