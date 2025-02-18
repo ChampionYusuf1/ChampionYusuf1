@@ -6,7 +6,6 @@ Im also studying Computer Science at UIC with a concentration in software engine
 **Background**: I started coding while building a  project for with a friend, a classic two player shooter game which sparked my intrest in coding, and still has me cooked to this day.
 <br>
 **Current Work**: Recently, I’ve been creating cross-platform apps using Flutter & React Native, with a special focus on performance and user experience.
-<br>  
 **Goals**: I’m excited about leveraging cutting-edge payment technologies to simplify online transactions. I’d love to collaborate on open-source mobile solutions or join a team building next-generation fintech products.
 <br>
 Im currently looking for software engineering internships for the summer of 2026, you can reach out to me at yghan2@uic.edu
