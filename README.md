@@ -19,7 +19,7 @@ https://www.survease.app/
 <br>
 https://donationkiosk.net/
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yusuf Ghani) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YusufGhani](https://www.linkedin.com/in/yusuf-ghani-70238a242/)) 
 
 
 # 💻 Tech Stack:
