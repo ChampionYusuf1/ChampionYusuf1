@@ -15,6 +15,7 @@ Im also studying Computer Science at UIC with a concentration in software engine
 Here are two of the project I worked on which are now in Production! Check Them Out!
 <br>
 Have experience working in large teams and task management services such as Jira and AzureDevOps
+<br>
 https://www.survease.app/
 <br>
 https://donationkiosk.net/
